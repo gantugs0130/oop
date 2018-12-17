@@ -1,8 +1,8 @@
 class Body{
     public:
-    double posision_x;
-    double posision_y;
-    double acc_x;
-    double acc_y;
-    double mass;
+    float posision_x;
+    float posision_y;
+    float v_x;
+    float v_y;
+    float mass;
 };
